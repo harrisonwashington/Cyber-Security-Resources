@@ -1,9 +1,21 @@
-# Internet-Sec-Tools
-A list of tools for internet security best practices 
+# Cyber-Security-Resources
+A list of resources and tools for cyber security best practices 
 
-## DNSSEC
-- https://en.internet.nl/ - checks whether your domain is using DNSSEC
+
+# Security Framworks
+- NIST cybersecurity standards, guidelines, best practices: https://www.nist.gov/cybersecurity
+- NIST Cybersecurity Framework: https://www.nist.gov/cyberframework/framework-documents 
+
+# DNSSEC
+- Checks whether your domain is using DNSSEC: https://en.internet.nl/
 - https://dnschecker.org/
 
-## Security Framworks
-- https://www.nist.gov/cyberframework/framework-documents NIST Cybersecurity Framework
+# Linux Server
+
+## Debian Security 
+- Debian Security Information: https://www.debian.org/security/
+- Securing Debian Manual 3.19: https://www.debian.org/doc/manuals/securing-debian-manual/index.en.html
+
+## Firewalls
+- iptables: https://wiki.archlinux.org/title/Iptables
+- Fail2ban: https://wiki.archlinux.org/title/Fail2ban

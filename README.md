@@ -4,7 +4,7 @@ A list of resources and tools for cyber security best practices
 
 # Security Framworks
 
-##NIST
+## NIST
 - NIST cybersecurity standards, guidelines, best practices: https://www.nist.gov/cybersecurity
 - NIST Cybersecurity Framework: https://www.nist.gov/cyberframework/framework-documents 
 
